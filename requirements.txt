@@ -1,0 +1,8 @@
+streamlit
+openai
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+scikit-learn
+json5
