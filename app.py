@@ -36,11 +36,11 @@ query = st.text_input("Enter your question:", key="query")
 
 #  Display Sample Prompts (Static Text)
 st.markdown("#### 🔹 Try asking:")
-st.markdown("- ** Recommend an action movie**")
-st.markdown("- ** What are the best thriller movies?**")
-st.markdown("- ** Who directed Inception?**")
-st.markdown("- ** What are the best sci-fi movies of all time?**")
-st.markdown("- ** What are some underrated movies?**")
+st.markdown("- Recommend an action movie")
+st.markdown("- What are the best thriller movies?")
+st.markdown("- Who directed Inception?")
+st.markdown("- What are the best sci-fi movies of all time?")
+st.markdown("- What are some underrated movies?")
 
 #  Get Answer Button with Styling
 if st.button(" Get Answer"):
